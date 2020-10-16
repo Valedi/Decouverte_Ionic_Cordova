@@ -1,0 +1,13 @@
+$done-color: grey;
+
+.done {
+  color:$done-color;
+  text-decoration-line: line-through;
+}
+
+.todoNb {
+  font-size: 2em;
+  font-weight: bold;
+
+margin-right: 1rem;
+}
